@@ -1,0 +1,3 @@
+device_a.c == Just Works
+device_b.c == No Pairing
+device_c.c == Authenticated

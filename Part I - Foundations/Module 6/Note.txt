@@ -1,0 +1,5 @@
+The original SDAF doccument was adapted from binary analysis, to source-code analysis.
+
+The doccument in this folder is a completed version of the adapted doccuemnt.
+Delete completed sections before giving to students. 
+In the future adapt it to a new firmware for students reference.
