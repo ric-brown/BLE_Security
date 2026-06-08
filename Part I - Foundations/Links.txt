@@ -1,0 +1,13 @@
+InfiniTime — https://github.com/InfiniTimeOrg/InfiniTime
+Apache NimBLE — https://github.com/apache/mynewt-nimble
+ESP-IDF (alternative NimBLE host, for ESP32 targets) — https://github.com/espressif/esp-idf
+Nordic Developer Academy BLE Fundamentals — https://academy.nordicsemi.com/courses/bluetooth-low-energy-fundamentals/
+Nordic bt-fund exercises — https://github.com/NordicDeveloperAcademy/bt-fund
+ble_ctf — https://github.com/hackgnar/ble_ctf
+ble_ctf_infinity (extra credit) — https://github.com/hackgnar/ble_ctf_infinity
+
+Reference frameworks (linked, not repos): 
+MITRE CWE (cwe.mitre.org)
+FIRST CVSS 3.1 calculator (first.org/cvss/calculator/3.1/)
+MITRE ATT&CK (attack.mitre.org)
+OWASP IoT Top 10 (owasp.org/www-project-internet-of-things/)
